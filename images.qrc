@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>win.jpg</file>
+        <file>propact.jpg</file>
+        <file>prop.jpg</file>
+        <file>infact.jpg</file>
+        <file>inf.jpg</file>
+        <file>gray3.jpg</file>
+        <file>gray2.jpg</file>
+        <file>gray1.jpg</file>
+        <file>gray0.jpg</file>
+        <file>exitact.jpg</file>
+        <file>exit.jpg</file>
+        <file>batonact.jpg</file>
+        <file>baton.jpg</file>
+    </qresource>
+</RCC>
